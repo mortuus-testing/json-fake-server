@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "msg": "Wash dishes",
+      "finish": true,
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "msg": "Go shopping",
+      "finish": false,
+      "favorite": true
+    },
+    {
+      "id": 3,
+      "msg": "Fix world hunger",
+      "finish": false,
+      "favorite": false
+    }
+  ]
+}
